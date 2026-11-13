@@ -28,7 +28,7 @@
     "styled-components": "^5.3.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.10",
+    "@babel/core": "^8.1.2",
     "@yoast/babel-preset": "^1.0.1",
     "@yoast/jest-preset": "^1.0.1",
     "babel-plugin-styled-components": "^2.0.6",
